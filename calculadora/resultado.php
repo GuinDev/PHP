@@ -36,5 +36,7 @@ elseif($op == "*")
 elseif($op == "/") 
 { $resul = $primeiro / $segundo;
 }
+
+
 ?> 
 
